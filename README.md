@@ -1,2 +1,2 @@
-# zengamestudio.github.io
-zengamestudio.github.io
+# zen-gamestudio.github.io
+zen-gamestudio.github.io
